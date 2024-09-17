@@ -1,4 +1,4 @@
-# 3DViwer
+# 3DViewer
 
 ## Демонстрация работы программы
 ![Работа программы](src/gif_img/program_work.gif)
