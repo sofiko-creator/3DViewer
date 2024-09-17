@@ -1,5 +1,4 @@
 # 3DViwer
-# 3DViewer v1.0
 
 ## Демонстрация работы программы
 ![Работа программы](src/gif_img/program_work.gif)
